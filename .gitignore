@@ -1,0 +1,28 @@
+# Ignore Everything
+*
+
+# But these
+!.aliases
+!.vimrc
+!*.vim
+!*.vim/*
+!bin
+!bin/*
+!config
+!config/*
+!.bashrc
+!.gitignore
+!.gdbinit
+!.tmux.conf
+!setup
+!setup/*
+!*bin
+!dircolors
+!.curlrc
+!.gitmodules
+!*.dir_colors
+!.dir_colors/*
+!.pyenv
+!.rbenv
+!.rbenv/*
+!.rbenv/plugins/ruby-build

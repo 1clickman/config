@@ -1,0 +1,12 @@
+[submodule "gnome-terminal-colors-solarized"]
+	path = gnome-terminal-colors-solarized
+	url = https://github.com/Anthony25/gnome-terminal-colors-solarized
+[submodule ".pyenv"]
+	path = .pyenv
+	url = https://github.com/yyuu/pyenv
+[submodule ".rbenv"]
+	path = .rbenv
+	url = https://github.com/rbenv/rbenv
+[submodule ".rbenv/plugins/ruby-build"]
+	path = .rbenv/plugins/ruby-build
+	url = https://github.com/rbenv/ruby-build.git

@@ -1,0 +1,5 @@
+alias g='git'
+alias ..="cd ../"
+alias cls=clear
+
+alias vi=vim
