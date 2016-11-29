@@ -28,3 +28,5 @@
 !.rbenv/plugins/ruby-build
 !gnome-terminal-colors-solarized
 !gnome-terminal-colors-solarized/*
+!.bashmac.rc
+!.bashlinux.rc
