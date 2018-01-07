@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 if [ "$(uname)" == "Darwin" ]; then
-  source .bashmac.rc
+  source ~/.bashmac.rc
 elif [ "$(expr substr $(uname -s) 1 5)" == "Linux" ]; then
-  source .bashlinux.rc
+  source ~/.bashlinux.rc
 fi
