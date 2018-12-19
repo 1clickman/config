@@ -21,4 +21,4 @@ Bundle 'jistr/vim-nerdtree-tabs'
 "Markdown
 Bundle 'plasticboy/vim-markdown'
 
-" filetype plugin indent on
+filetype plugin indent on
