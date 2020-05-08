@@ -113,11 +113,6 @@ eval "$(pyenv init -)"
 #eval "$(pyenv virtualenv-init -)"
 
 
-# Rubyenv stuff
-export RBENV_VERSION="system"
-export PATH="$HOME/.rbenv/bin:$PATH"
-eval "$(rbenv init -)"
-
 # Import aliases
 export PATH="$HOME/bin:$PATH"
 source ~/.aliases
